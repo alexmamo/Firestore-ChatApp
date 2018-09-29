@@ -5,6 +5,6 @@ ChatApp is the companion Android app for the Youtube Tutorial: Chat App Tutorial
 
 This tutorial covers everything you need to know, to incorporate Cloud Firestore database into an Android App. It will show you:
 
-How to create a Firestore database structure for a chat application
-Hot to create the model classes for our database
-How to display user contacts and chat rooms and send messages to specific users
+* How to create a Firestore database structure for a chat application
+* Hot to create the model classes for our database
+* How to display user contacts and chat rooms and send messages to specific users
