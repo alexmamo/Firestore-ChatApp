@@ -1,4 +1,4 @@
-# ChatApp
+# Firestoree ChatApp
 
 ChatApp is the companion Android app for the Youtube Tutorial: [Chat App Tutorial (Firestore & Kotlin)](https://www.youtube.com/playlist?list=PLn2n4GESV0Ak1HiH0tTPTJXsOEy-5v9qb). It's a one to one chat application like WhatsApp.
 
